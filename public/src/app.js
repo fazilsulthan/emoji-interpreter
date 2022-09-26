@@ -7,7 +7,14 @@ const emojiDictionary = {
   "🤑": "Money-Mouth Face",
   "😪": "Sleepy Face",
   "🥳": "Partying Face",
-  "🤖": "Robot",
+  "😢": "Crying Face",
+  "🤔": "Thinking Face",
+  "😋": "Face Savoring Food",
+  "🥱": "Yawning Face",
+  "😂": "Face with Tears of Joy",
+  "😫": "Tired Face",
+  "🥰": "Smiling Face with Hearts",
+  "😟": "Worried Face",
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
